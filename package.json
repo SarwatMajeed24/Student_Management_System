@@ -1,0 +1,21 @@
+{
+  "name": "sarwatmajeed07-student_management_system",
+  "version": "2.0.2",
+  "description": "cli based Student Management System",
+  "main": "index.js",
+  "type": "module",
+  "bin": "studMangSYS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sarwat Majeed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  }
+}
